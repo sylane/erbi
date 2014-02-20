@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/qhool/erbi.png?branch=master)](https://travis-ci.org/qhool/erbi)
+[![Build Status](https://travis-ci.org/qhool/erbi.png?branch=psql_error_mapping)](https://travis-ci.org/qhool/erbi)
 
 ERBI (ERlang dataBase Interface)
 ================================
